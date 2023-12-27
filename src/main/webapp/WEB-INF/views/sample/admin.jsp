@@ -7,6 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>디도스</h1>
+	<h1>ADMIN</h1>
+	
+	<h2><a href="/logout">로그아웃</a></h2>
 </body>
 </html>

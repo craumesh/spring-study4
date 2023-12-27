@@ -7,6 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>랜섬웨어</h1>
+	<h1>MEMBER</h1>
+	
+	<h2><a href="/logout">로그아웃</a></h2>
 </body>
 </html>
